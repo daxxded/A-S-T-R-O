@@ -108,3 +108,6 @@ To log into the backdoor type this in chat:
 - **enablelock** | Reverses the effects of disableLock.
 - **secure** | Lock console, cmds and disable plugins.
 - **showtoken** | Gets Discord token from plugin configs.
+
+
+WTF I MADE THIS REPOSITORY LIKE 3 YEARS AGO AND WHY DID 10 PEOPLE CONSITBUTED I HAVE NO IDEA LMAOO
